@@ -22,6 +22,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
     text-align: left;
     text-indent: 0;
     vertical-align: top;
+    margin: 0 auto;
 }
 
 .mejs__container * {
