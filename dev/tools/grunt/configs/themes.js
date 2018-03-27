@@ -41,6 +41,16 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    swenson: {
+        area: 'frontend',
+        name: 'Swenson/default',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
